@@ -2,6 +2,12 @@ import java.util.ArrayList;
 import java.util.Collections;
 import java.util.Scanner;
 
+/*
+ * Yuvraj Nayak
+ * 1/30/19
+ * ACSL Intermediate Division programming contest
+ * Uses specified algorithm to find differences in files
+ */
 public class acsl2 {
 	public static void main(String[] args) {
 		Scanner input = new Scanner(System.in);

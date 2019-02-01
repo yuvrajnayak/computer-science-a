@@ -1,6 +1,12 @@
 import java.util.ArrayList;
 import java.util.Scanner;
 
+/*
+ * Yuvraj Nayak
+ * 1/30/19
+ * ACSL Senior Division programming contest
+ * Uses specified algorithm to find differences in files
+ */
 public class acsl2Senior {
 	public static void main(String[] args) {
 		final int NUM_ITERATIONS = 5;
